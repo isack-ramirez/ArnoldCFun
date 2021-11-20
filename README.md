@@ -20,5 +20,5 @@ OR (Direct Download link if you have trouble : ) http://lhartikk.github.io/Arnol
 
 ### Voila!
 
-
+(!!! this is strictly for fun and is not designed to be used in a professional capacity, nor is it intended as application material for a professional position. !!!)
 
