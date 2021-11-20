@@ -1,0 +1,300 @@
+IT'S SHOWTIME
+
+HEY CHRISTMAS TREE variable1
+	YOU SET US UP 10
+
+HEY CHRISTMAS TREE variable2
+	YOU SET US UP 5
+
+TALK TO THE HAND "                                                                             "
+TALK TO THE HAND "                                                                             "
+TALK TO THE HAND "-----------------------------------------------------------------------------"
+TALK TO THE HAND "                                                                             "
+TALK TO THE HAND "THIS IS A METHOD IN ARNOLD C THAT TAKES TWO ARGUMENTS AND DOES AN OPERATION!"
+TALK TO THE HAND "VARIABLE ONE IS 10!"
+TALK TO THE HAND "VARIABLE TWO IS 5!"
+TALK TO THE HAND "                                                                             " 
+TALK TO THE HAND "-----------------------------------------------------------------------------"
+TALK TO THE HAND "                                                                             " 
+
+
+
+
+HEY CHRISTMAS TREE adder
+	YOU SET US UP 0
+
+GET YOUR ASS TO MARS adder
+DO IT NOW add variable1 variable2
+
+
+TALK TO THE HAND "HERE IS THE SUM OF THE VARIABLES : "
+TALK TO THE HAND adder
+
+
+
+
+TALK TO THE HAND "                                                                             " 
+TALK TO THE HAND "-----------------------------------------------------------------------------"
+TALK TO THE HAND "  																		   "
+TALK TO THE HAND "THIS MULTIPLIES THE TWO VARIABLES : "
+
+HEY CHRISTMAS TREE multiplier
+	YOU SET US UP 0
+
+GET YOUR ASS TO MARS multiplier
+DO IT NOW multiply variable1 variable2
+
+TALK TO THE HAND multiplier
+
+
+
+
+TALK TO THE HAND "                                                                             " 
+TALK TO THE HAND "-----------------------------------------------------------------------------"
+TALK TO THE HAND " 																			   "
+TALK TO THE HAND "THIS DIVIDES TWO VARIABLES:"
+
+HEY CHRISTMAS TREE divider
+	YOU SET US UP 0
+
+GET YOUR ASS TO MARS divider
+DO IT NOW divide variable1 variable2
+
+TALK TO THE HAND divider
+
+
+
+
+
+TALK TO THE HAND "                                                                             " 
+TALK TO THE HAND "-----------------------------------------------------------------------------"
+TALK TO THE HAND " 																			   "
+TALK TO THE HAND "THIS GETS THE MODULO OF THE TWO VARIABLES:"
+
+HEY CHRISTMAS TREE moduloator
+	YOU SET US UP 0
+
+GET YOUR ASS TO MARS moduloator
+DO IT NOW modulo variable1 variable2
+
+TALK TO THE HAND moduloator
+
+
+
+
+
+TALK TO THE HAND "                                                                             " 
+TALK TO THE HAND "-----------------------------------------------------------------------------"
+TALK TO THE HAND " 																			   "
+TALK TO THE HAND "THIS CHECKS IF THE VARIABLES ARE EQUAL:"
+
+HEY CHRISTMAS TREE equator
+	YOU SET US UP 99
+
+GET YOUR ASS TO MARS equator
+DO IT NOW isEqual variable1 variable2
+
+TALK TO THE HAND equator
+TALK TO THE HAND "THIS 0 IS THE INTEGER VALUE FOR I LIED (FALSE)"
+TALK TO THE HAND "IF YOU DONT BELIEVE ME MODIFY THE SOURCE CODE"
+
+
+
+
+
+
+TALK TO THE HAND "                                                                             " 
+TALK TO THE HAND "-----------------------------------------------------------------------------"
+TALK TO THE HAND " 																			   "
+TALK TO THE HAND "THIS CHECKS IF VARIABLE ONE IS GREATER THAN VARIABLE TWO:"
+
+HEY CHRISTMAS TREE greaterThanEr
+	YOU SET US UP 99
+
+GET YOUR ASS TO MARS greaterThanEr
+DO IT NOW isGreaterThan variable1 variable2
+
+TALK TO THE HAND greaterThanEr
+TALK TO THE HAND "THIS 1 IS THE INTEGER VALUE FOR NO PROBLEMO (TRUE)"
+TALK TO THE HAND "IF YOU DONT BELIEVE ME MODIFY THE SOURCE CODE"
+
+
+
+
+TALK TO THE HAND "                                                                             " 
+TALK TO THE HAND "-----------------------------------------------------------------------------"
+TALK TO THE HAND " 																			   "
+TALK TO THE HAND "THIS SUBTRACTS VARIABLE TWO FROM VARIABLE ONE"
+
+HEY CHRISTMAS TREE subtractor
+	YOU SET US UP 0
+
+GET YOUR ASS TO MARS subtractor
+DO IT NOW subtract variable1 variable2
+
+TALK TO THE HAND subtractor
+
+
+
+
+
+
+
+
+				YOU HAVE BEEN TERMINATED
+
+
+
+
+
+LISTEN TO ME VERY CAREFULLY add
+
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var1
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var2
+
+	GIVE THESE PEOPLE AIR
+
+	HEY CHRISTMAS TREE sum
+		YOU SET US UP 0
+
+	GET TO THE CHOPPER sum
+		HERE IS MY INVITATION sum
+		GET UP var1 
+		GET UP var2
+	ENOUGH TALK
+
+	I'LL BE BACK sum
+
+HASTA LA VISTA, BABY
+
+
+
+
+LISTEN TO ME VERY CAREFULLY multiply
+
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var1
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var2
+
+	GIVE THESE PEOPLE AIR
+
+	HEY CHRISTMAS TREE output
+		YOU SET US UP 0
+
+	GET TO THE CHOPPER output
+		HERE IS MY INVITATION var1
+		YOU'RE FIRED var2
+	ENOUGH TALK
+
+	I'LL BE BACK output
+
+HASTA LA VISTA, BABY
+
+
+
+
+LISTEN TO ME VERY CAREFULLY divide
+
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var1
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var2
+
+	GIVE THESE PEOPLE AIR
+
+	HEY CHRISTMAS TREE output
+		YOU SET US UP 0
+
+	GET TO THE CHOPPER output
+		HERE IS MY INVITATION var1
+		HE HAD TO SPLIT var2
+	ENOUGH TALK
+
+	I'LL BE BACK output
+
+HASTA LA VISTA, BABY
+
+
+LISTEN TO ME VERY CAREFULLY modulo
+
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var1
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var2
+
+	GIVE THESE PEOPLE AIR
+
+	HEY CHRISTMAS TREE output
+		YOU SET US UP 0
+
+	GET TO THE CHOPPER output
+		HERE IS MY INVITATION var1
+		I LET HIM GO var2
+	ENOUGH TALK
+
+	I'LL BE BACK output
+
+HASTA LA VISTA, BABY
+
+
+
+LISTEN TO ME VERY CAREFULLY isEqual
+
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var1
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var2
+
+	GIVE THESE PEOPLE AIR
+
+	HEY CHRISTMAS TREE output
+		YOU SET US UP 0
+
+	GET TO THE CHOPPER output
+		HERE IS MY INVITATION var1
+		YOU ARE NOT YOU YOU ARE ME var2
+	ENOUGH TALK
+
+
+	I'LL BE BACK output
+
+HASTA LA VISTA, BABY
+
+
+
+LISTEN TO ME VERY CAREFULLY isGreaterThan
+
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var1
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var2
+
+	GIVE THESE PEOPLE AIR
+
+	HEY CHRISTMAS TREE output
+		YOU SET US UP 0
+
+	GET TO THE CHOPPER output
+		HERE IS MY INVITATION var1
+		LET OFF SOME STEAM BENNET var2
+	ENOUGH TALK
+
+
+	I'LL BE BACK output
+
+HASTA LA VISTA, BABY
+
+
+LISTEN TO ME VERY CAREFULLY subtract
+
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var1
+	I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE var2
+
+	GIVE THESE PEOPLE AIR
+
+	HEY CHRISTMAS TREE output
+		YOU SET US UP 0
+
+	GET TO THE CHOPPER output
+		HERE IS MY INVITATION var1
+		GET DOWN var2
+	ENOUGH TALK
+
+
+	I'LL BE BACK output
+
+HASTA LA VISTA, BABY
+
+
+
